@@ -12,6 +12,9 @@ tags:
 draft: false
 toc: true
 lang: 'en'
+image:
+  path: /assets/imgs/r2d2.jpg
+  alt: A photo of r2d2
 ---
 
 I was looking out for some github repositories in my home page recently, with

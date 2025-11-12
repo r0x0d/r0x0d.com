@@ -8,6 +8,9 @@ tags:
 draft: false
 toc: true
 lang: 'en'
+image:
+  path: /assets/imgs/workflow.jpg
+  alt: A cozy image of a laptop and a coffee
 ---
 
 TLDR; Here's the repository: https://github.com/r0x0d/troubleshoot

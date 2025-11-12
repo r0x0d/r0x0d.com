@@ -6,6 +6,9 @@ tags:
   - python
   - rpm
   - building
+image:
+  path: /assets/imgs/matrix-code.jpg
+  alt: Matrix terminal scene because we are hackers!
 ---
 
 Recently I was working on a very specific task in the current project that I'm

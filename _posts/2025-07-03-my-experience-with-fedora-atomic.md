@@ -7,6 +7,9 @@ tags:
   - fedora
   - atomic
   - containers
+image:
+  path: /assets/imgs/fedora-atomic.jpg
+  alt: Fedora Atomic 29 logo
 ---
 
 ## Backstory

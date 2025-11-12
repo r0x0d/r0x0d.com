@@ -8,6 +8,9 @@ tags:
 draft: false
 toc: true
 lang: 'en'
+image:
+  path: /assets/imgs/ferris-wheel.jpg
+  alt: A ferris wheel
 ---
 
 Have you ever tried to develop an entire application that relies on d-bus

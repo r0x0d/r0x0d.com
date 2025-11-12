@@ -10,6 +10,9 @@ tags:
 draft: false
 toc: true
 lang: 'en'
+image:
+  path: /assets/imgs/toolbox.jpg
+  alt: A phot of a toolbox
 ---
 My experience so far with Fedora Atomic desktops (or ostree based desktops) has
 been positive, of some sorte. First things first, there are a couple of

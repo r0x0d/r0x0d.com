@@ -9,6 +9,9 @@ tags:
 draft: false
 toc: true
 lang: 'en'
+image:
+  path: /assets/imgs/systemd.png
+  alt: SystemD logo
 ---
 
 # The problem

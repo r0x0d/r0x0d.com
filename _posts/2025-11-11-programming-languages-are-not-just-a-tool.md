@@ -8,6 +8,9 @@ tags:
 draft: false
 toc: true
 lang: 'en'
+image:
+  path: /assets/imgs/tools.jpg
+  alt: Tools of different sizes and types
 ---
 
 While I was browsing LinkedIn this week (I know!), I came across a post that
