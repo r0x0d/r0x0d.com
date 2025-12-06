@@ -20,3 +20,5 @@ gem 'jekyll-feed'
 gem 'jekyll-github-card'
 
 gem 'jekyll-github-code'
+
+gem 'jekyll-post-card'

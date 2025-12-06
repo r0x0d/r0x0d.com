@@ -50,7 +50,7 @@ therefore, a simple:
 ```sh
 pip install fuzzytail
 
-# or
+# ou
 
 pipx install fuzzytail
 ```
@@ -140,8 +140,14 @@ That will generate the following output:
 
 All types of contributions are very welcome to the project! If you are
 interested in contributing, whether with code, documentation, or even reporting
+<<<<<<< HEAD
+problems, please feel free to do so through the repository at:
+
+{% github r0x0d/fuzzytail %}
+||||||| parent of 09d6c05 (packaging posts)
 problems, please feel free to do so through the repository on [Github](https://github.com/r0x0d/fuzzytail).
 =======
+problems, please feel free to do so through the repository on [Github](https://github.com/r0x0d/fuzzytail).
 ||||||| parent of 1d95630 (packaging posts)
 =======
 ---

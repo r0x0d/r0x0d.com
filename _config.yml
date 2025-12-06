@@ -223,6 +223,7 @@ plugins:
   - jekyll-feed
   - jekyll-github-code
   - jekyll-github-card
+  - jekyll-post-card
 
 feed:
   excerpt_only: false
