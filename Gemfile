@@ -17,4 +17,6 @@ gem 'jekyll-compose', group: [:jekyll_plugins]
 
 gem 'jekyll-feed'
 
-gem "jekyll-github-card"
+gem 'jekyll-github-card'
+
+gem 'jekyll-github-code'
