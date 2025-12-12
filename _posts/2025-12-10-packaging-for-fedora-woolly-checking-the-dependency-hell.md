@@ -58,7 +58,7 @@ therefore, a simple:
 ```sh
 pip install woolly
 
-# ou
+# or
 
 pipx install woolly
 ```
@@ -296,5 +296,6 @@ of your project's dependencies!
 
 All types of contributions are very welcome to the project! If you are
 interested in contributing, whether with code, documentation, or even reporting
-problems, please feel free to do so through the repository on
-[Github](https://github.com/r0x0d/woolly).
+problems, please feel free to do so through the repository at:
+
+{% github r0x0d/woolly %}
