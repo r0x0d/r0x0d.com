@@ -221,6 +221,7 @@ jekyll-archives:
 
 plugins:
   - jekyll-feed
+  - jekyll-github-card
 
 feed:
   excerpt_only: false

@@ -11,6 +11,7 @@ image:
   alt: A relaxing fox sleeping
 date: 2025-12-10 17:22 -0300
 ---
+
 If you are an experienced fedora packager or even if you are starting out, you
 probably have come across [COPR](https://copr.fedorainfracloud.org) and its
 tooling, right? Well, if you have, then you know how painful it is, for each
