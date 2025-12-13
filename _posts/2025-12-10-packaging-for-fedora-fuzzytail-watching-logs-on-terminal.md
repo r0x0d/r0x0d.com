@@ -6,6 +6,9 @@ tags:
 - packaging
 - tooling
 - fuzzytail
+categories:
+  - Packaging
+  - Fedora
 image:
   path: "/assets/imgs/fuzzytail.jpg"
   alt: A relaxing fox sleeping

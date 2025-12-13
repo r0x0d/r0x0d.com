@@ -6,6 +6,9 @@ tags:
 - template
 - cookiecutter
 - fedora
+categories:
+  - Packaging
+  - Fedora
 image:
   path: assets/imgs/cookiecutter.jpg
   alt: Cookies cut in format of a person

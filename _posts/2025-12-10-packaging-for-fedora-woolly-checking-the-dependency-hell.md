@@ -6,6 +6,9 @@ tags:
 - packaging
 - woolly
 - tooling
+categories:
+  - Packaging
+  - Fedora
 image:
   path: "/assets/imgs/woolly.jpg"
   alt: A cute lamb in a green field
