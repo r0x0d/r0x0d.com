@@ -34,9 +34,11 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Rodolfo Olivieri
   email: rodolfo.olivieri3@gmail.com # change to your email address
+  fediverse_handle: "@r0x0d@hachyderm.io"
   links:
     - https://github.com/r0x0d # change to your GitHub homepage
     - https://www.linkedin.com/in/rodolfoolivieri
+    - https://hachyderm.io/@r0x0d
 
 # Site Verification Settings
 webmaster_verifications:
